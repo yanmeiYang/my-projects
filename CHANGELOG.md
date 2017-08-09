@@ -4,7 +4,7 @@
 
 _Git changelog is a utility tool for generating changelogs. It is free and opensource. :)_
 
-## v1.2.0  ( Wed Aug 09 2017 20:39:20 GMT+0800 (CST) )
+## v1.2.4  ( Wed Aug 09 2017 20:40:57 GMT+0800 (CST) )
 
 
 ## Bug Fixes
@@ -31,6 +31,8 @@ _Git changelog is a utility tool for generating changelogs. It is free and opens
 
 
 ## Chore
+  - 再次升级
+  ([cd2b3b66](git@github.com:yanmeiYang/my-projects/commit/cd2b3b669739747bdf8202b3a3867daa00482cc8))
   - 版本升级
   ([4dfeab23](git@github.com:yanmeiYang/my-projects/commit/4dfeab23ba4660ab38b268d9de1bfad32f40a7ea))
   - 新增加了一个test.vue文件
