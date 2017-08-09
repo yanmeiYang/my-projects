@@ -24,7 +24,7 @@ export default {
     return {
       msg: '',
       todos: [
-        {text: 'add some1 test 中文asdgfdsXXXXg'}
+        {text: 'add some1 test 中文asdgfdsXXXXg版本升级'}
       ]
     }
   },
