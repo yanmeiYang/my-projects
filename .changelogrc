@@ -4,7 +4,7 @@
     "intro": "Git changelog is a utility tool for generating changelogs. It is free and opensource. :)",
     "branch" : "",
     "repo_url": "",
-    "version_name" : "v1.2.0",
+    "version_name" : "v1.2.4",
     "file": "CHANGELOG.md",
     "sections": [
         {
