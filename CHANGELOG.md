@@ -1,6 +1,7 @@
 # My app - Changelog
 
-
+## Added
+  - add a Changelog by @yanmeiYang
 
 ## Bug Fixes
   - test
