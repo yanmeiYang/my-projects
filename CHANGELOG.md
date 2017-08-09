@@ -11,6 +11,13 @@
 
 
 
+## Chore
+  - 新增加了一个test.vue文件
+  ([81abb7b9](git@github.com:yanmeiYang/my-projects/commit/81abb7b908c1c26291a3474eb2b8dc5ec95a2753))
+
+
+
+
 
 ---
 <sub><sup>*Generated with [git-changelog](https://github.com/rafinskipg/git-changelog). If you have any problems or suggestions, create an issue.* :) **Thanks** </sub></sup>

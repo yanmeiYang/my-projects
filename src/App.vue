@@ -6,7 +6,8 @@
 
 <script>
 import Hello from './components/Hello'
-import test from './components/test'
+import Test from './components/test'
+import test2 from './components/test2'
 
 export default {
   name: 'app',
