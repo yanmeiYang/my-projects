@@ -24,7 +24,7 @@ export default {
     return {
       msg: '',
       todos: [
-        {text: 'add some1 test Changelog'}
+        {text: 'add some1 test Changelogsdafsadd'}
       ]
     }
   },
