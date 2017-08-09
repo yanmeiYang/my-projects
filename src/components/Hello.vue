@@ -24,7 +24,7 @@ export default {
     return {
       msg: '',
       todos: [
-        {text: 'add some1 test 中文'}
+        {text: 'add some1 test 中文asdgfdsXXXXg'}
       ]
     }
   },
